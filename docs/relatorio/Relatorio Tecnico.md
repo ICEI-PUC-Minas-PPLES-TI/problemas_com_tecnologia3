@@ -1,9 +1,6 @@
-# Informações do Projeto
-`TÍTULO`  
+# Informações do Projeto 
 
 ## PCFÁCIL
-
-`CURSO` 
 
 Engenharia de Software - 1 Período (Manhã)
 
@@ -54,21 +51,14 @@ Engenharia de Software - 1 Período (Manhã)
 
 # Introdução
 
+Comprar peças para computador pode ser uma tarefa desafiadora para muitas pessoas. A variedade de componentes disponíveis no mercado, combinada com a rápida evolução da tecnologia, pode tornar difícil a decisão de qual peça comprar. Além disso, muitos consumidores não têm conhecimento técnico suficiente para identificar as especificações corretas de cada componente e como combiná-los para formar um sistema completo, funcional e que atenda a necessidade deles. 
+    Outra dificuldade é encontrar preços adequados nas pesquisas. Com tantas opções disponíveis em diversas lojas físicas e online, pode ser desafiador comparar os preços e encontrar a melhor oferta. Além disso, a compatibilidade entre os componentes também pode ser uma preocupação. Cada peça deve ser compatível com as outras, para garantir o funcionamento do sistema como um todo. 
+      Neste contexto, um website de auxílio para montagem de computadores pode ser muito útil para fornecer informações e orientações sobre como construir um computador do zero, quais são os componentes necessários, e trazer da forma mais clara possível informações da peça ideal. Além disso, pode fornecer dicas de resolução de problemas, bem como fornecer suporte técnico para os usuários que encontrarem problemas durante o processo de montagem.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conforme o exposto, o problema que se busca resolver com este projeto é a falta de informação e objetividade na busca de informação para montagem ou compra de um computador que têm criado problemas  para indivíduos que buscam se informar sobre um computador ideal para uso, com confiabilidade e agilidade, trazendo prejuízos financeiros ou uma compra ruim em muitos casos.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -76,63 +66,37 @@ Engenharia de Software - 1 Período (Manhã)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral do website é fornecer informações e orientações completas e confiáveis sobre o computador ideal a qual o usuário deseja. O site será projetado para ajudar pessoas com diferentes níveis de conhecimento e habilidades, desde iniciantes até usuários experientes, a construir um computador personalizado que atenda às suas necessidades específicas. O site fornecerá uma ampla gama de recursos, incluindo guias passo a passo, listas de componentes recomendados e dicas de solução de problemas para ajudar os usuários a criar ou comprar um computador funcional e de alta qualidade. O objetivo é auxiliar os usuários a montar seu próprio computador com confiança e sucesso, economizando dinheiro e obtendo uma compreensão mais profunda da tecnologia por trás do hardware de computador.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Muitas pessoas têm interesse em construir um computador personalizado mas podem não ter conhecimento técnico suficiente para fazê-lo sozinhas. Além disso, muitos usuários podem se sentir confusos com a grande variedade de componentes disponíveis no mercado, e podem precisar de orientação sobre quais peças escolher para atender às suas necessidades específicas.
+Um website de auxílio na montagem de computadores pode preencher essa lacuna, fornecendo informações confiáveis e orientações passo a passo sobre como montar um computador.
+Além disso, a montagem de um computador personalizado pode oferecer uma série de benefícios em relação à compra de um computador montado e pronto, pode-se incluir a capacidade de escolher componentes de alta qualidade, personalizar o desempenho do sistema e economizar dinheiro. Dessa forma, pode ajudar a promover  benefícios, incentivando os usuários a explorar essa opção mais a fundo de forma prazerosa e objetiva.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Acredita-se que todas as pessoas com tais dificuldades possa se beneficiar do projeto, mas  como foco principal indivíduos jovens ou de meia idade, independente de sexo, que tenham real interesse ou necessidade em montar um computador pessoal ou de uso profissional.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
+
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -164,16 +128,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Larissa Sven        |Um computador que se adeque ao meu trabalho                     |Minha profissão, arquiteta,depende disso|
+|Larissa Sven        |Um dispositivo que comporte meus jogos                          |Esse é meu passatempo nos momentos livres|
+|Fátima              |Um dispositivo para ajudar minhas netas nas tarefas escolares   |Quero participar ativamente da educação delas|
+|Fátima              |Um dispositivo que eu posso me entreter, mas também me comunicar|Gosto de passar meu tempo livre vendo vídeos sobre doces e meus filhos sempre dizem que preciso ser mais comunicativa|
+|Marcos              |Uma máquina que possa ser útil para meus jogos                  |Me divirto jogando quando não estou ocupado com a faculdade|
+|Marcos              |Um computador que possa me ajudar nas atividades da faculdade   |Curso Ciências da Computação, logo preciso de algo que suporte minhas atividades|
+|Roberto             |Um dispositivo que comporte o meu trabalho                      |Meu trabalho de escritor faz com que eu precise lidar com arquivos relativamente pesados|
+|Roberto             |Uma máquina capaz de trabalhar rapidamente em qualquer ocasião  |Gosto de estar sempre precavido, logo quero algo que seja capaz de realizar qualquer atividade que eu designe a ela|
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
@@ -470,5 +433,7 @@ organizar o time durante a execução das tarefas do projeto. Listadas a seguir.
 Referências Bibliográficas
 
 >LIFEWIRE. Building vs. Buying a PC. Disponível em: https://www.lifewire.com/building-vs-buying-a-pc-832692. Acesso em: 18 abr. 2023.
+
 >CRUCIAL. How to Build a Computer. Disponível em: https://www.crucial.com/articles/pc-builders/how-to-build-a-computer. Acesso em: 18 abr. 2023.
+
 >WINDOWS CENTRAL. How to build a PC: The ultimate step-by-step guide. Disponível em: https://www.windowscentral.com/how-build-pc-ultimate-step-step-guide. Acesso em: 18 abr. 2023.
