@@ -1,15 +1,22 @@
 # Informações do Projeto
-`Website focado no auxílio da montagem de computadores`  
+`TÍTULO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Website focado no auxílio da montagem de computadores ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Trabalho interdisciplinar - Aplicações Web ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Guilherme Leroy Teixeira Capanema
+Henry Sven Ribeiro da Costa
+Ian Matsuhara Ferraz
+Julia Gabriela de Resende
+Kayler de Freitas Moura
+Otávio Augusto Dutra Costa
+Yan Esquerdo Norte
+ ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
