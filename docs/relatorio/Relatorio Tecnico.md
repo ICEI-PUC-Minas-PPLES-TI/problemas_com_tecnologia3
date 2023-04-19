@@ -78,10 +78,10 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
 
-> ![Exemplo de Persona](images/LarrisaSven.png)
-> ![Exemplo de Persona](images/Marcos.png)
-> ![Exemplo de Persona](images/Fatima.png)
-> ![Exemplo de Persona](images/Roberto.png)
+> ![Larissa](images/LarrisaSven.png)
+> ![Marcos](images/Marcos.png)
+> ![Fatima](images/Fatima.png)
+> ![Roberto](images/Roberto.png)
 
 ## Histórias de Usuários
 
@@ -159,7 +159,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 - Conteúdo - apresenta o conteúdo da tela em questão; 
 - Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo
 
-> ![Exemplo de Persona](images/1.png)
+> ![Tela - Padrão](images/1.png)
 > 
 ### Tela - HomePage
 
@@ -169,43 +169,43 @@ A tela de home-page mostra a história da empresa de destaque. Com base na estru
 - Componente de peças mais vendidas que leva o usuário para a tela de Peças mais vendidas; 
 - Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas. 
 
-> ![Exemplo de Persona](images/2.png)
+> ![Tela - HomePage](images/2.png)
 
 ### Tela - Ofertas
 
 A tela de ofertas de categoria apresenta, no Bloco de Conteúdo, as ofertas referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
-> ![Exemplo de Persona](images/3.png)
+> ![Tela - Ofertas](images/3.png)
 
 ### Tela - Resultado de Pesquisa 
 
 Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de peças associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.]
 
-> ![Exemplo de Persona](images/5.png)
+> ![Tela - Resultado de Pesquisa](images/5.png)
 
 ### Tela - Leitura Notícias
 
 A tela de Descrição do produto apresenta, no Bloco de Conteúdo, uma descrição de produto melhor e mais específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
-> ![Exemplo de Persona](images/6.png)
+> ![Tela - Leitura Notícias](images/6.png)
 
 ### Tela - Salvar Notícias Preferidas
 
 A tela que permite o salvamento de peças preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o texto “peças preferidas” na tela da barra lateral. Nesta tela, a peça a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior. 
 
-> ![Exemplo de Persona](images/7.png)
+> ![Tela - Salvar Notícias Preferidas](images/7.png)
 
 ### Tela - Notícias Preferidas
 
 A tela de Peças Preferidas apresenta a relação de peças salvas pelo usuário. Nesta tela, as peças são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das peças salvas. Ao clicar em uma peça é disparada a tela de visualização da peça. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
 
-> ![Exemplo de Persona](images/8.png)
+> ![Tela - Notícias Preferidas](images/8.png)
 
 ### Tela - Comentários 
 
 Na tela que permite ao usuário comentar uma peça, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
 
-> ![Exemplo de Persona](images/9.png)
+> ![Tela - Comentários](images/9.png)
 
 
 
@@ -265,12 +265,13 @@ Trello estruturado com as seguintes listas:
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/8rem2J2Y/sprint-montagem-de-computadores e é apresentado, no estado atual, abaixo. 
 
-> ![Exemplo de Persona](images/trello.png)
+> ![Trello](images/trello.png)
 
 ## Controle de Versão
 
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no **Git Feature Branch Workflow**, mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separadas. 
 
+> ![FluxoGit](images/Github-Workflow.png)
 # Referências
 
 Referências Bibliográficas
