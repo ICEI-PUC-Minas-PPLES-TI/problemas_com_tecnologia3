@@ -1,28 +1,21 @@
 # Informações do Projeto
 `TÍTULO`  
 
-...... Website focado no auxílio da montagem de computadores ......
+## PCFÁCIL
 
 `CURSO` 
 
-......  Trabalho interdisciplinar - Aplicações Web ......
+Engenharia de Software - 1 Período (Manhã)
 
 ## Participantes
 
-......  Guilherme Leroy Teixeira Capanema
-Henry Sven Ribeiro da Costa
-Ian Matsuhara Ferraz
-Julia Gabriela de Resende
-Kayler de Freitas Moura
-Otávio Augusto Dutra Costa
-Yan Esquerdo Norte
- ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+-  Guilherme Leroy Teixeira Capanema
+-  Henry Sven Ribeiro da Costa
+-  Ian Matsuhara Ferraz
+-  Julia Gabriela de Resende
+-  Kayler de Freitas Moura
+-  Otávio Augusto Dutra Costa
+-  Yan Esquerdo Norte
 
 # Estrutura do Documento
 
