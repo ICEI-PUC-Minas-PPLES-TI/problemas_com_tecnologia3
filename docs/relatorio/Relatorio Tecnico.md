@@ -51,44 +51,32 @@ Engenharia de Software - 1 Período (Manhã)
 
 # Introdução
 
-Comprar peças para computador pode ser uma tarefa desafiadora para muitas pessoas. A variedade de componentes disponíveis no mercado, combinada com a rápida evolução da tecnologia, pode tornar difícil a decisão de qual peça comprar. Além disso, muitos consumidores não têm conhecimento técnico suficiente para identificar as especificações corretas de cada componente e como combiná-los para formar um sistema completo, funcional e que atenda a necessidade deles. 
-    Outra dificuldade é encontrar preços adequados nas pesquisas. Com tantas opções disponíveis em diversas lojas físicas e online, pode ser desafiador comparar os preços e encontrar a melhor oferta. Além disso, a compatibilidade entre os componentes também pode ser uma preocupação. Cada peça deve ser compatível com as outras, para garantir o funcionamento do sistema como um todo. 
-      Neste contexto, um website de auxílio para montagem de computadores pode ser muito útil para fornecer informações e orientações sobre como construir um computador do zero, quais são os componentes necessários, e trazer da forma mais clara possível informações da peça ideal. Além disso, pode fornecer dicas de resolução de problemas, bem como fornecer suporte técnico para os usuários que encontrarem problemas durante o processo de montagem.
+  Comprar peças para computador pode ser uma tarefa desafiadora para muitas pessoas. A variedade de componentes disponíveis no mercado, combinada com a rápida evolução da tecnologia, pode tornar difícil a decisão de qual peça comprar. Além disso, muitos consumidores não têm conhecimento técnico suficiente para identificar as especificações corretas de cada componente e como combiná-los para formar um sistema completo, funcional e que atenda a necessidade deles.
+ 
+  Outra dificuldade é encontrar preços adequados nas pesquisas. Com tantas opções disponíveis em diversas lojas físicas e online, pode ser desafiador comparar os preços e encontrar a melhor oferta. Além disso, a compatibilidade entre os componentes também pode ser uma preocupação. Cada peça deve ser compatível com as outras, para garantir o funcionamento do sistema como um todo.
+ 
+  Neste contexto, um website de auxílio para montagem de computadores pode ser muito útil para fornecer informações e orientações sobre como construir um computador do zero, quais são os componentes necessários, e trazer da forma mais clara possível informações da peça ideal. Além disso, pode fornecer dicas de resolução de problemas, bem como fornecer suporte técnico para os usuários que encontrarem problemas durante o processo de montagem.
 
 ## Problema
 
 Conforme o exposto, o problema que se busca resolver com este projeto é a falta de informação e objetividade na busca de informação para montagem ou compra de um computador que têm criado problemas  para indivíduos que buscam se informar sobre um computador ideal para uso, com confiabilidade e agilidade, trazendo prejuízos financeiros ou uma compra ruim em muitos casos.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O objetivo geral do website é fornecer informações e orientações completas e confiáveis sobre o computador ideal a qual o usuário deseja. O site será projetado para ajudar pessoas com diferentes níveis de conhecimento e habilidades, desde iniciantes até usuários experientes, a construir um computador personalizado que atenda às suas necessidades específicas. O site fornecerá uma ampla gama de recursos, incluindo guias passo a passo, listas de componentes recomendados e dicas de solução de problemas para ajudar os usuários a criar ou comprar um computador funcional e de alta qualidade. O objetivo é auxiliar os usuários a montar seu próprio computador com confiança e sucesso, economizando dinheiro e obtendo uma compreensão mais profunda da tecnologia por trás do hardware de computador.
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Muitas pessoas têm interesse em construir um computador personalizado mas podem não ter conhecimento técnico suficiente para fazê-lo sozinhas. Além disso, muitos usuários podem se sentir confusos com a grande variedade de componentes disponíveis no mercado, e podem precisar de orientação sobre quais peças escolher para atender às suas necessidades específicas.
-Um website de auxílio na montagem de computadores pode preencher essa lacuna, fornecendo informações confiáveis e orientações passo a passo sobre como montar um computador.
-Além disso, a montagem de um computador personalizado pode oferecer uma série de benefícios em relação à compra de um computador montado e pronto, pode-se incluir a capacidade de escolher componentes de alta qualidade, personalizar o desempenho do sistema e economizar dinheiro. Dessa forma, pode ajudar a promover  benefícios, incentivando os usuários a explorar essa opção mais a fundo de forma prazerosa e objetiva.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Um website de auxílio na montagem de computadores pode preencher essa lacuna, fornecendo informações confiáveis e orientações passo a passo sobre como montar um computador.
+
+Além disso, a montagem de um computador personalizado pode oferecer uma série de benefícios em relação à compra de um computador montado e pronto, pode-se incluir a capacidade de escolher componentes de alta qualidade, personalizar o desempenho do sistema e economizar dinheiro. Dessa forma, pode ajudar a promover  benefícios, incentivando os usuários a explorar essa opção mais a fundo de forma prazerosa e objetiva.
 
 ## Público-Alvo
 
 Acredita-se que todas as pessoas com tais dificuldades possa se beneficiar do projeto, mas  como foco principal indivíduos jovens ou de meia idade, independente de sexo, que tenham real interesse ou necessidade em montar um computador pessoal ou de uso profissional.
 
-
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
@@ -98,26 +86,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
 
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona](LarrisaSven.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
@@ -437,3 +406,7 @@ Referências Bibliográficas
 >CRUCIAL. How to Build a Computer. Disponível em: https://www.crucial.com/articles/pc-builders/how-to-build-a-computer. Acesso em: 18 abr. 2023.
 
 >WINDOWS CENTRAL. How to build a PC: The ultimate step-by-step guide. Disponível em: https://www.windowscentral.com/how-build-pc-ultimate-step-step-guide. Acesso em: 18 abr. 2023.
+
+>TECHTUDO. Conheça os principais erros ao montar um computador e saiba como evitar. [S.l.], 2013. Disponível em: https://www.techtudo.com.br/google/amp/noticias/2013/11/conheca-os-principais-erros-ao-montar-um-computador-e-saiba-como-evitar.ghtml. Acesso em: 18 abr. 2023.
+
+>GAMER INFO. Montar um PC em casa. Gamer Info, publicado em 15 jun. 2021. Disponível em: https://www.gamerinfo.com.br/2021/06/15/montar-um-pc-em-casa/. Acesso em: 18 abr. 2023.
