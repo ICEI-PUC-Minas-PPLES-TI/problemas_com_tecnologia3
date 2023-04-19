@@ -265,11 +265,12 @@ Trello estruturado com as seguintes listas:
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/8rem2J2Y/sprint-montagem-de-computadores e é apresentado, no estado atual, abaixo. 
 
-> ![Exemplo de Persona](images/Trello.png)
+> ![Exemplo de Persona](images/trello.png)
 
 ## Controle de Versão
 
-Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Feature Branch Workflow, mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separadas. Uma explicação rápida sobre este processo é apresentada no site
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no **Git Feature Branch Workflow**, mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separadas. 
+
 # Referências
 
 Referências Bibliográficas
