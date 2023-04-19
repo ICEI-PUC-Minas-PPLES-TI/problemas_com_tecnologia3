@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Website focado no auxílio da montagem de computadores`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
