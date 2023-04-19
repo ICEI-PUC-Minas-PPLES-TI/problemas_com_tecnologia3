@@ -106,10 +106,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Roberto             |Um dispositivo que comporte o meu trabalho                      |Meu trabalho de escritor faz com que eu precise lidar com arquivos relativamente pesados|
 |Roberto             |Uma máquina capaz de trabalhar rapidamente em qualquer ocasião  |Gosto de estar sempre precavido, logo quero algo que seja capaz de realizar qualquer atividade que eu designe a ela|
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -118,16 +114,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O site deve apresentar na página principal um carrossel de imagens do produto. | MÉDIA | 
+|RF-02|O site deve apresentar uma navbar com caminhos para outras partes do site.| ALTA |
+|RF-03|O site deve permitir ao usuário visualizar a descrição do produto com clareza.| ALTA | 
+|RF-04|Os produtos devem conter imagens que correspondam ao que está sendo procurado.| ALTA | 
+|RF-05|O site deve ser funcional, permitindo ao usuário pesquisar e encontrar o produto desejado.| ALTA | 
+|RF-06|O site deve permitir ao usuário salvar as informações que lhe agradam.| MÉDIA | 
+|RF-07|O site deve permitir ao usuário comentar em cada produto.| BAIXA | 
+|RF-08|O site deve contar com um menu lateral para encontrar produtos.| ALTA | 
+|RF-09|O site deve apresentar informações de contato dos desenvolvedores do site.| BAIXA |
+|RF-10|O site deve apresentar a opção de filtrar o item de procura.| ALTA | 
+|RF-11|O site deve apresentar ferramentas que facilitam para pessoas deficientes.| MÉDIA | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01|O site vai ser publicado em ambiente acessível.| ALTA | 
+|RNF-02|O site deverá ser responsivo em outros dispositivos.|  ALTA |
+|RNF-03|O site deve ter boa estrutura de elementos|  MÉDIA |
+|RNF-04|O site deve ser compatível em diversos browsers|  ALTA |
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
