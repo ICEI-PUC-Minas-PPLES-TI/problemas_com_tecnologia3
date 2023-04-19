@@ -1,18 +1,20 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# ProjetoDIW_PCFacil
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Guilherme Leroy Teixeira Capanema
+* Henry Sven Ribeiro da Costa
+* Ian Matsuhara Ferraz
+* Julia Gabriela de Resende
+* Kayler de Freitas Moura
+* Otávio Augusto Dutra Costa
+* Yan Esquerdo Norte
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Amália Soares Vieira de Vasconcelos
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, complementar com instruções de utilização. Descrever instalação e execução da aplicação.
