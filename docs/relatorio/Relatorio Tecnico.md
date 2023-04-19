@@ -469,6 +469,6 @@ organizar o time durante a execução das tarefas do projeto. Listadas a seguir.
 
 Referências Bibliográficas
 
-LIFEWIRE. Building vs. Buying a PC. Disponível em: https://www.lifewire.com/building-vs-buying-a-pc-832692. Acesso em: 18 abr. 2023.
-CRUCIAL. How to Build a Computer. Disponível em: https://www.crucial.com/articles/pc-builders/how-to-build-a-computer. Acesso em: 18 abr. 2023.
-WINDOWS CENTRAL. How to build a PC: The ultimate step-by-step guide. Disponível em: https://www.windowscentral.com/how-build-pc-ultimate-step-step-guide. Acesso em: 18 abr. 2023.
+>LIFEWIRE. Building vs. Buying a PC. Disponível em: https://www.lifewire.com/building-vs-buying-a-pc-832692. Acesso em: 18 abr. 2023.
+>CRUCIAL. How to Build a Computer. Disponível em: https://www.crucial.com/articles/pc-builders/how-to-build-a-computer. Acesso em: 18 abr. 2023.
+>WINDOWS CENTRAL. How to build a PC: The ultimate step-by-step guide. Disponível em: https://www.windowscentral.com/how-build-pc-ultimate-step-step-guide. Acesso em: 18 abr. 2023.
