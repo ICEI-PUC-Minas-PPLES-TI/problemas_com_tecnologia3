@@ -138,19 +138,15 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo
-extrapolar a data de 07/07/2023.
-|  ALTA |
+|ID| Restrição                                             |Prioridade  |
+|------|-------------------------------------------------------|----------|
+|RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2023.|  ALTA |
 |RE-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|  ALTA |
 |RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.|  ALTA |
 
 # Projeto de Interface
 
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
-
-
 
 ## User Flow
 
@@ -162,15 +158,58 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 - Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação); 
 - Conteúdo - apresenta o conteúdo da tela em questão; 
 - Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo
+
 > ![Exemplo de Persona](images/1.png)
+> 
+### Tela - HomePage
+
+
+A tela de home-page mostra a história da empresa de destaque. Com base na estrutura padrão, o bloco de conteúdo traz as peças de computadores em destaque (imagem, título, preço, ícone de compartilhamento). O bloco da Barra Lateral traz três elementos distintos: 
+- Componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário; 
+- Componente de peças mais vendidas que leva o usuário para a tela de Peças mais vendidas; 
+- Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas. 
+
 > ![Exemplo de Persona](images/2.png)
+
+### Tela - Ofertas
+
+A tela de ofertas de categoria apresenta, no Bloco de Conteúdo, as ofertas referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
+
 > ![Exemplo de Persona](images/3.png)
-> ![Exemplo de Persona](images/4.png)
+
+### Tela - Resultado de Pesquisa 
+
+Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de peças associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.]
+
 > ![Exemplo de Persona](images/5.png)
+
+### Tela - Leitura Notícias
+
+A tela de Descrição do produto apresenta, no Bloco de Conteúdo, uma descrição de produto melhor e mais específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
+
 > ![Exemplo de Persona](images/6.png)
+
+### Tela - Salvar Notícias Preferidas
+
+A tela que permite o salvamento de peças preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o texto “peças preferidas” na tela da barra lateral. Nesta tela, a peça a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior. 
+
 > ![Exemplo de Persona](images/7.png)
+
+### Tela - Notícias Preferidas
+
+A tela de Peças Preferidas apresenta a relação de peças salvas pelo usuário. Nesta tela, as peças são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das peças salvas. Ao clicar em uma peça é disparada a tela de visualização da peça. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page.
+
 > ![Exemplo de Persona](images/8.png)
+
+### Tela - Comentários 
+
+Na tela que permite ao usuário comentar uma peça, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
 > ![Exemplo de Persona](images/9.png)
+
+
+
+
 
 # Metodologia
 
@@ -178,9 +217,7 @@ A metodologia inclui as definições de ferramentas utilizadas
 pela equipe tanto para manter os códigos e outros artefatos, quanto para 
 organizar o time durante a execução das tarefas do projeto. Listadas a seguir. 
 
-
-
-
+### Relação de Ambientes de Trabalho
 
 |Ambiente     | Plataforma                 |Link de Acesso |
 |-------------|-------------------|---------------|
@@ -188,12 +225,6 @@ organizar o time durante a execução das tarefas do projeto. Listadas a seguir.
 |Documentos do projeto|Google Drive|(https://sgapucminasbr-my.sharepoint.com/personal/1247101_sga_pucminas_br/_layouts/15/onedrive.aspx?view=1 )| 
 |Projeto de Interface e  Wireframes|Miro|(https://miro.com/app/board/uXjVMYDaOFM=/)| 
 |Gerenciamento do Projeto|Trello |(https://trello.com/b/8rem2J2Y/sprint-montagem-de-computadores)| 
-
-
-
-
-
-
 
 ## Divisão de Papéis
 
@@ -203,31 +234,38 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira: 
 
 
-Scrum Master: Guilherme Leroy 
-Product Owner: Puc minas
-Equipe de Desenvolvimento 
-Kayle de Freitas  (Desenvolvedor BackEnd) 
-Ian Matsuhara (Desenvolvedor Back End) 
-Henry Sven (Desenvolvedor Front End) 
-Yan Esquerdo (Desenvolvedor Front End) 
-Julia Resende (Designer) 
-Otávio (desenvolvedor Front End)
+- Scrum Master: Guilherme Leroy 
+- Product Owner: PUC Minas
+##### Equipe de Desenvolvimento 
+- Kayler de Freitas  (Desenvolvedor BackEnd) 
+- Ian Matsuhara (Desenvolvedor Back End) 
+- Henry Sven (Desenvolvedor Front End) 
+- Yan Esquerdo (Desenvolvedor Front End) 
+- Julia Resende (Designer) 
+- Otávio (desenvolvedor Front End)
 
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando
 Trello estruturado com as seguintes listas: 
+( **Locked** )
 
+**Recursos**: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
 
-Recursos: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
-Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito. 
-Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
-Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
-  
+**Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+**To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+
+**Doing**: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+
+**Test**: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito. 
+
+**Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+**Locked**: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/8rem2J2Y/sprint-montagem-de-computadores e é apresentado, no estado atual, abaixo. 
 
+> ![Exemplo de Persona](images/Trello.png)
 
 ## Controle de Versão
 
