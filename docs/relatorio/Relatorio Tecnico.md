@@ -86,7 +86,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
 
-> ![Exemplo de Persona](/images/LarrisaSven.png)
+> ![Exemplo de Persona](images/LarrisaSven.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
@@ -136,37 +136,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-03|O site deve ter boa estrutura de elementos|  MÉDIA |
 |RNF-04|O site deve ser compatível em diversos browsers|  ALTA |
 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo
+extrapolar a data de 07/07/2023.
+|  ALTA |
+|RE-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|  ALTA |
+|RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.|  ALTA |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -326,84 +306,6 @@ organizar o time durante a execução das tarefas do projeto. Listadas a seguir.
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
-# Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-## Tecnologias Utilizadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
-## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
-
-# Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
-## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
-## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
 
 # Referências
 
